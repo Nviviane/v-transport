@@ -1,1 +1,3 @@
-# v-transport
+# maven-project
+
+Simple Maven Project
